@@ -41,7 +41,7 @@ A **mapped department key architecture** was implemented to resolve mixed ID/nam
 - **Bar Chart:** Billing Amount by Hospital  
 - Clean performance across departments  
 
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](screenshots/executive_overview.png)
 
 ---
 
@@ -58,7 +58,7 @@ A **mapped department key architecture** was implemented to resolve mixed ID/nam
 - Length of stay maintained **below 7 days** across departments  
 - Billing performance consistent across departments  
 
-![Cost & Efficiency Analysis](Screenshots/cost_and_efficiency_analysis.png)
+![Cost & Efficiency Analysis](screenshots/cost_and_efficiency_analysis.png)
 
 ---
 
@@ -75,7 +75,7 @@ A **mapped department key architecture** was implemented to resolve mixed ID/nam
 - All departments operating within cost thresholds  
 - Clear efficiency distribution across departments  
 
-![Department Performance](Screenshots/department_performance.png)
+![Department Performance](screenshots/department_performance.png)
 
 ---
 
