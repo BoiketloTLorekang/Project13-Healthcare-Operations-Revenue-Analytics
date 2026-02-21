@@ -41,7 +41,7 @@ A **mapped department key architecture** was implemented to resolve mixed ID/nam
 - **Bar Chart:** Billing Amount by Hospital  
 - Clean performance across departments  
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ---
 
@@ -75,7 +75,7 @@ A **mapped department key architecture** was implemented to resolve mixed ID/nam
 - All departments operating within cost thresholds  
 - Clear efficiency distribution across departments  
 
-![Department Performance](screenshots/department_performance.png)
+![Department Performance](screenshots/Department_Performance.png)
 
 ---
 
